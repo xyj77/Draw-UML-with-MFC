@@ -1,7 +1,7 @@
 # Imitate-Visio-to-draw-class-diagram-of-MFC-implementation
 模仿Visio绘制类图的MFC程序实现
 
-### Class Structure
+### Class Structure：
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 </div>
 
-### Example
+### Example：
 
 <div align="center">
 
@@ -18,4 +18,4 @@
 </div>
 
 ### Acknowledgments
-Thanks to my team members @wuleng & y823621915
+Thanks to my team members @wuleng & @y823621915

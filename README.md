@@ -1,8 +1,7 @@
 # Imitate-Visio-to-draw-class-diagram-of-MFC-implementation
 模仿Visio绘制类图的MFC程序实现
 
-## Data
-项目结构
+## 项目结构
 
 <div align="center">
 
@@ -10,8 +9,7 @@
 
 </div>
 
-## Data
-绘制效果
+## 绘制效果
 
 <div align="center">
 

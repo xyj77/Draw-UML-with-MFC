@@ -1,14 +1,6 @@
 ## Imitate-Visio-to-draw-class-diagram-of-MFC-implementation
 模仿Visio绘制类图的MFC程序实现
 
-## Class Structure：
-
-<div align="center">
-
-<img align="center" width="600" src="https://github.com/xyj77/Imitate-Visio-to-draw-class-diagram-of-MFC-implementation/raw/master/figures/class.png">
-
-</div>
-
 ## Example：
 
 <div align="center">
@@ -40,6 +32,14 @@ UML类图编辑系统包含四个功能：图元的创建及对齐、图元的�
 
 4 文字编辑
 > 双击图元的某个位置调用相应的包含编辑控件的对话框；各图元均可添加名称（包名、类名、接口名、关系名）；类可添加属性和方法、接口添加方法，并且可以区分public、private和protected；关系图元两端可添加多重性（0、1、*）。
+
+## Class Structure：
+
+<div align="center">
+
+<img align="center" width="600" src="https://github.com/xyj77/Imitate-Visio-to-draw-class-diagram-of-MFC-implementation/raw/master/figures/class.png">
+
+</div>
 
 ## Acknowledgments
 Thanks to my team members @wuleng & @y823621915
